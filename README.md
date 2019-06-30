@@ -1,3 +1,5 @@
-## webpack
+### pwa-demo
 
-> 这是一个基于 `webpack v4.x` 的配置模板
+- PWA初体验
+
+- 基于 `webpack v4.x` 搭建

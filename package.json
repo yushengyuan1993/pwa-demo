@@ -1,7 +1,7 @@
 {
-  "name": "webpack",
+  "name": "pwa-demo",
   "version": "1.0.0",
-  "description": "startup webpack",
+  "description": "startup pwa",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
